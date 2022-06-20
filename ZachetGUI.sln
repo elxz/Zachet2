@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zachet", "Zachet\Zachet.csproj", "{2C5802DF-863A-4C5A-BD2B-73838DD88FDC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestAir", "TestAir\TestAir.csproj", "{5E02E0FD-33AD-474A-8657-FF174D9FB604}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C5802DF-863A-4C5A-BD2B-73838DD88FDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C5802DF-863A-4C5A-BD2B-73838DD88FDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C5802DF-863A-4C5A-BD2B-73838DD88FDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C5802DF-863A-4C5A-BD2B-73838DD88FDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E02E0FD-33AD-474A-8657-FF174D9FB604}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E02E0FD-33AD-474A-8657-FF174D9FB604}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E02E0FD-33AD-474A-8657-FF174D9FB604}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E02E0FD-33AD-474A-8657-FF174D9FB604}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBA14624-83F2-46EB-884C-8625C8007648}
+	EndGlobalSection
+EndGlobal
