@@ -8,6 +8,7 @@ namespace Zachet
 {
     public class AirConditioner
     {
+        //Change
         private int temperature { get; set; }
         private int speed { get; set; }
 
